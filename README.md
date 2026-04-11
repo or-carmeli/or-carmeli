@@ -1,16 +1,49 @@
-## Hi there 👋
+## Or Carmeli
 
-<!--
-**or-carmeli/or-carmeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer with an SRE mindset, focused on production systems, reliability, and Kubernetes.
 
-Here are some ideas to get you started:
+Building tools that simulate real-world debugging instead of theoretical learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Current Work
+
+**KubeQuest**  
+Interactive Kubernetes learning platform focused on real production scenarios.
+
+**War Room**  
+Incident investigation simulator that models real debugging workflows:
+- Stateful investigations (resume, progress tracking)
+- Step-based troubleshooting
+- Production-like failure scenarios
+
+---
+
+### Focus Areas
+
+- Kubernetes & container orchestration  
+- Production debugging & incident response  
+- Observability & system behavior  
+- Cloud infrastructure (AWS)  
+- CI/CD & automation  
+
+---
+
+### Tech Stack
+
+Kubernetes · Docker · AWS · CI/CD · Supabase · Vercel  
+
+---
+
+### Approach
+
+I treat personal projects like production systems:
+- Work through PRs and structured commits  
+- Focus on real-world failure scenarios  
+- Design for debugging, not just correctness  
+
+---
+
+### Links
+
+- KubeQuest: https://kubequest.online
