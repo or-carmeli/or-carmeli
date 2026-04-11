@@ -2,12 +2,12 @@
 
 DevOps Engineer focused on Kubernetes, production systems and real-world debugging.
 
-Building KubeQuest, an interactive platform that simulates how engineers actually investigate incidents.
+I build tools that simulate how engineers actually troubleshoot systems in production, not just theoretical learning.
 
-### What I'm working on
+### What I'm building
 
-- KubeQuest: Kubernetes learning through real production scenarios  
-- War Room: step-by-step incident investigation simulator  
+- KubeQuest: interactive Kubernetes learning platform based on real production scenarios  
+- War Room: step-by-step incident investigation simulator with realistic failure cases  
 
 ### Focus
 
@@ -15,5 +15,7 @@ Kubernetes · Debugging · Observability · Cloud · CI/CD
 
 ### Approach
 
-I build projects the same way I run systems in production  
-structured, observable and designed for debugging.
+I design systems and projects the same way I approach production:
+clear signals, debuggability, and realistic failure handling.
+
+My goal is to bridge the gap between learning Kubernetes and actually operating it under pressure.
