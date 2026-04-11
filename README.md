@@ -2,7 +2,7 @@
 
 DevOps Engineer working with Kubernetes and production systems.
 
-I build tools around debugging and incident scenarios, based on real issues you run into in production.
+I build tools around debugging and incident scenarios, based on real issues from production.
 
 ### What I'm building
 
@@ -15,8 +15,5 @@ Kubernetes · Debugging · Observability · Cloud · CI/CD
 
 ### Approach
 
-I'm interested in how systems behave in failure,  
+I focus on how systems behave in failure,  
 and how to debug them in a structured way.
-
-In practice, that means focusing less on how systems should work,  
-and more on what actually happens when they don’t.
