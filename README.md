@@ -1,49 +1,25 @@
-## Or Carmeli
+## Or Carmeli 👋
 
-DevOps Engineer with an SRE mindset, focused on production systems, reliability, and Kubernetes.
+DevOps Engineer focused on Kubernetes, production systems, and real-world debugging.
 
-Building tools that simulate real-world debugging instead of theoretical learning.
-
----
-
-### Current Work
-
-**KubeQuest**  
-Interactive Kubernetes learning platform focused on real production scenarios.
-
-**War Room**  
-Incident investigation simulator that models real debugging workflows:
-- Stateful investigations (resume, progress tracking)
-- Step-based troubleshooting
-- Production-like failure scenarios
+Building KubeQuest — an interactive platform that simulates how engineers actually investigate incidents.
 
 ---
 
-### Focus Areas
+### What I'm working on
 
-- Kubernetes & container orchestration  
-- Production debugging & incident response  
-- Observability & system behavior  
-- Cloud infrastructure (AWS)  
-- CI/CD & automation  
+- **KubeQuest** — Kubernetes learning through real production scenarios  
+- **War Room** — step-by-step incident investigation simulator  
 
 ---
 
-### Tech Stack
+### Focus
 
-Kubernetes · Docker · AWS · CI/CD · Supabase · Vercel  
+Kubernetes · Debugging · Observability · Cloud · CI/CD  
 
 ---
 
 ### Approach
 
-I treat personal projects like production systems:
-- Work through PRs and structured commits  
-- Focus on real-world failure scenarios  
-- Design for debugging, not just correctness  
-
----
-
-### Links
-
-- KubeQuest: https://kubequest.online
+I build projects the same way I’d run systems in production:
+structured, observable, and designed for debugging.
