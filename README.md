@@ -1,16 +1,13 @@
 # Or Carmeli 👋
 
-I work on Kubernetes systems in production, with a focus on debugging and failures.
+DevOps Engineer working with Kubernetes and production systems.
 
-I build tools around incident scenarios, inspired by real production cases.
-
-Most tools focus on how systems should work.  
-I’m more interested in what happens when they don’t.
+I build tools around debugging and incident scenarios, inspired by real production cases.
 
 ## What I'm building
 
-- KubeQuest: Kubernetes learning based on real-world scenarios, focusing on how systems behave under failure  
-- War Room: step-by-step incident investigation simulator that mirrors real debugging workflows  
+- KubeQuest: Kubernetes learning based on real-world scenarios, with a focus on how systems behave under failure  
+- War Room: step-by-step incident investigation simulator that reflects real debugging workflows  
 
 ## Focus
 
@@ -18,8 +15,7 @@ Kubernetes • Debugging • Observability • Cloud • CI/CD
 
 ## How I think
 
-I like breaking systems down when they misbehave,  
-understanding what actually went wrong, and why.
+I spend a lot of time looking at how systems behave when they don’t work as expected.
 
-In practice, that means focusing less on theory,  
-and more on how things behave in production.
+I’m interested in understanding what actually went wrong,  
+and how to debug it in a clear and structured way.
