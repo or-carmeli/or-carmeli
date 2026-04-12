@@ -1,34 +1,41 @@
 ## Or Carmeli 👋
 
 DevOps / Platform Engineer  
-Kubernetes • AWS • Production Systems
+Kubernetes • AWS • Production Systems  
 
 ---
 
-## About Me
+### 🧠 Currently
 
-- Operating production Kubernetes (EKS) environments
-- Building and automating CI/CD pipelines
-- Debugging real-world system failures
-- Improving reliability, security, and cost efficiency
-
----
-
-## Highlight
-
-**KubeQuest** – Interactive Kubernetes platform focused on real-world failures  
-Simulates debugging scenarios instead of theoretical learning
+- Building **KubeQuest**
+- Focused on **real-world debugging scenarios**
+- Exploring **failure behavior in distributed systems**
 
 ---
 
-## Tech
+### 🚨 KubeQuest
+
+Interactive Kubernetes learning platform built around **how systems fail in production**
+
+**War Room**
+- Incident-based simulations  
+- Debugging pods, networking, misconfigurations  
+- Real troubleshooting flow (logs, events, YAML)
+
+---
+
+### ⚙️ Stack
 
 Kubernetes • AWS • Terraform • Docker • ArgoCD  
 GitHub Actions • Jenkins • Linux • Networking  
-Prometheus • Grafana • CloudWatch
+Prometheus • Grafana • CloudWatch  
 
 ---
 
-## Focus
+### 🎯 Focus
 
-DevOps • CI/CD • Observability • Cloud • Reliability
+DevOps • CI/CD • Observability • Reliability  
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=or-carmeli&show_icons=true&theme=tokyonight)
