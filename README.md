@@ -5,7 +5,7 @@ Kubernetes • AWS • Production Systems
 
 ---
 
-### 🧠 Currently
+### Currently
 
 - Building **KubeQuest**
 - Focused on **real-world debugging scenarios**
@@ -13,7 +13,7 @@ Kubernetes • AWS • Production Systems
 
 ---
 
-### 🚨 KubeQuest
+### KubeQuest
 
 Interactive Kubernetes learning platform built around **how systems fail in production**
 
@@ -24,18 +24,20 @@ Interactive Kubernetes learning platform built around **how systems fail in prod
 
 ---
 
-### ⚙️ Stack
+### Stack
 
-Kubernetes • AWS • Terraform • Docker • ArgoCD  
-GitHub Actions • Jenkins • Linux • Networking  
-Prometheus • Grafana • CloudWatch  
+| Domain                | Technologies |
+|----------------------|-------------|
+| Cloud & Kubernetes   | AWS (EKS, EC2, RDS), Kubernetes |
+| IaC & Automation     | Terraform, CloudFormation |
+| CI/CD                | GitHub Actions, Jenkins |
+| Containers & GitOps  | Docker, Helm, ArgoCD |
+| Observability        | CloudWatch, Prometheus, Grafana |
+| Security & FinOps    | Cosign, Docker Hardening, Cost Optimization |
+| Core                 | Linux, Networking | 
 
 ---
 
-### 🎯 Focus
+### Focus
 
 DevOps • CI/CD • Observability • Reliability  
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=or-carmeli&show_icons=true&theme=tokyonight)
