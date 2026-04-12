@@ -22,8 +22,8 @@ Kubernetes • Debugging • Observability • Cloud • CI/CD
 
 I spend a lot of time looking at how systems behave when they fail.
 
-I’m interested in understanding what actually went wrong,  
+I try to understand what actually went wrong,  
 and how to debug it in a clear and structured way.
 
-In practice, that means focusing less on theory,  
-and more on how things behave in production.
+In practice, that usually means focusing less on theory,  
+and more on what really happens in production.
