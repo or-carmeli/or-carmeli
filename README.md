@@ -1,6 +1,6 @@
 ## Or Carmeli 👋
 
-DevOps / Platform Engineer  
+DevOps & SRE Engineer  
 Kubernetes • AWS • Production Systems  
 
 ---
